@@ -18,6 +18,8 @@ function setup() {
   gameObject3.shapeColor = "green";
   gameObject4 = createSprite(400,100,50,50);
   gameObject4.shapeColor = "green";
+  
+  console.log("check");
 }
 
 function draw() {
